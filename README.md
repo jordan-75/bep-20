@@ -1,6 +1,6 @@
-# MonToken (MTK) - Contrat BEP-20
+Contrat BEP-20
 
-MonToken (MTK) est un contrat de jeton conforme au standard BEP-20 pour la blockchain Binance Smart Chain (BSC). 
+Johny_bravo (BRAVO) est un contrat de jeton conforme au standard BEP-20 pour la blockchain Binance Smart Chain (BSC). 
 
 ## Fonctionnalités
 
