@@ -1,6 +1,6 @@
 Contrat BEP-20
 
-Johny_bravo (BRAVO) est un contrat de jeton conforme au standard BEP-20 pour la blockchain Binance Smart Chain (BSC). 
+Johnny_bravo (BRAVO) est un contrat de jeton conforme au standard BEP-20 pour la blockchain Binance Smart Chain (BSC). 
 
 ## Fonctionnalités
 
